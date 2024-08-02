@@ -1,4 +1,4 @@
-# Chatbot Interface with Gradio and LangChain
+# RAG solution for documents using Langchain
 
 This project implements a chatbot interface using Gradio, LangChain, and Ollama. The chatbot answers questions based on a given context from the documents in "data" folder and conversation history, utilizing a Chroma vector store for similarity search.
 
